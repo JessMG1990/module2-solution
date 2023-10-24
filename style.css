@@ -13,6 +13,20 @@ font-family: Curlz MT;
 font-size: 50px;
 color: #000000;
 }
+
+.chicken {
+border: 1px solid black;
+}
+
+.beef {
+border: 1px solid black;
+}
+
+.sushi {
+border: 1px solid black;
+
+}
+
 </style>
 </head>
 </html>
