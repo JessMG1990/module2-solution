@@ -14,20 +14,37 @@ font-size: 50px;
 color: #000000;
 }
 
-.chicken {
+p {
 border: 1px solid black;
-margin: 10px;
+background-color: #A39D99;
+width: 90%;
+height: 150px;
+margin-right: auto;
+margin-left: auto;
+font-family: Curlz MT;
+color: #000000;
 }
 
-.beef {
-border: 1px solid black;
-margin: 10px;
+.row {
+width: 100%;
 }
 
-.sushi {
+@media (min-width: 992px) {
+.col-lg-4 {
+float: left;
 border: 1px solid black;
-margin: 10px;
 }
+.col-lg-4{
+width: 33.33%
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+.col-md-6{
+width: 50%
+}
+}
+
 
 </style>
 </head>
