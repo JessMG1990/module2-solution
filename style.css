@@ -16,15 +16,17 @@ color: #000000;
 
 .chicken {
 border: 1px solid black;
+margin: 10px;
 }
 
 .beef {
 border: 1px solid black;
+margin: 10px;
 }
 
 .sushi {
 border: 1px solid black;
-
+margin: 10px;
 }
 
 </style>
