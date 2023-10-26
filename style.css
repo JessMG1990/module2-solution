@@ -19,12 +19,10 @@ border: 1px solid black;
 background-color: #A39D99;
 width: 90%;
 height: 150px;
-margin-right: auto;
-margin-left: auto;
+margin: 10px;
 font-family: Curlz MT;
 color: #000000;
 word-break: break-word;
-align-content: center;
 }
 
 .row {
