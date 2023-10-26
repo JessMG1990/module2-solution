@@ -23,11 +23,11 @@ margin-right: auto;
 margin-left: auto;
 font-family: Curlz MT;
 color: #000000;
+margin: auto;
 }
 
 .row {
-with: 1000px;
-margin: auto;
+with: 100%;
 }
 
 @media (min-width: 992px) {
