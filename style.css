@@ -23,7 +23,8 @@ margin-right: auto;
 margin-left: auto;
 font-family: Curlz MT;
 color: #000000;
-overflow-wrap: break-word;
+word-wrap: break-word;
+align-content: center;
 }
 
 /*
