@@ -5,7 +5,6 @@
 <style>
 * {
   box-sizing: border-box;
-  text-align: center;
 }
 
 h1 {
@@ -24,6 +23,10 @@ margin-right: 20px;
 margin-left: 20px;
 font-family: Curlz MT;
 color: #000000;
+}
+
+div {
+text-align: center;
 }
 
 .row {
