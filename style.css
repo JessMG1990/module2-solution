@@ -24,7 +24,7 @@ height: 150;
 margin: 1px;
 font-family: Curlz MT;
 color: #000000;
-word-break: break-word;
+overflow: hidden;
 }
 
 .row {
