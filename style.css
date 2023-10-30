@@ -23,7 +23,7 @@ height: 150;
 margin: 1px;
 font-family: Curlz MT;
 color: #000000;
-overflow: scroll;
+overflow: hidden;
 }
 
 .row {
