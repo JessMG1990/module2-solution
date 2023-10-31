@@ -48,7 +48,8 @@ left: 10px;
 #Sushi{
 background-color: #a8326d;
 border: 1px solid black;
-margin-top: -15px;
+float: right;
+margin-top: -30px;
 }
 
 #Beef {
