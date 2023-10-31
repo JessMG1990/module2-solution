@@ -38,21 +38,21 @@ width: 100%;
 background-color: #3293a8;
 border: 1 px solid black;
 float: right;
-clear: both;
+clear: right;
 }
 
 #Sushi{
 background-color: #a8326d;
 border: 1px solid black;
 float: right;
-clear: both;
+clear: right;
 }
 
 #Beef {
 background-color: #e39964;
 border: 1px solid black;
 float: right;
-clear: both;
+clear: right;
 }
 
 @media (min-width: 1200px) {
