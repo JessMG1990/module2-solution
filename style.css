@@ -57,6 +57,7 @@ background-color: #e39964;
 border: 1px solid black;
 float: right;
 clear: right;
+margin-top: -30px;
 }
 
 @media (min-width: 992px) {
