@@ -39,7 +39,7 @@ width: 100%;
 
 #Chicken {
 background-color: #3293a8;
-border: 1px solid black;
+border: 2px solid black;
 float: right;
 margin-top: -22px;
 margin-right: -12px;
@@ -47,7 +47,7 @@ margin-right: -12px;
 
 #Sushi{
 background-color: #a8326d;
-border: 1px solid black;
+border: 2px solid black;
 float: right;
 margin-top: -22px;
 margin-right: -12px;
@@ -55,7 +55,7 @@ margin-right: -12px;
 
 #Beef {
 background-color: #e39964;
-border: 1px solid black;
+border: 2px solid black;
 float: right;
 margin-top: -22px;
 margin-right: -12px;
