@@ -40,6 +40,9 @@ width: 100%;
 #Chicken {
 background-color: #3293a8;
 border: 1px solid black;
+position: absolute;
+top: 1px;
+right: 1px;
 }
 
 #Sushi{
