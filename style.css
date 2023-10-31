@@ -40,9 +40,9 @@ width: 100%;
 #Chicken {
 background-color: #3293a8;
 border: 1px solid black;
-position: relative;
-bottom: 100px;
-left: 100px;
+float: right;
+margin-top: -21px;
+margin-right: -11px;
 }
 
 #Sushi{
@@ -57,8 +57,8 @@ margin-right: -11px;
 background-color: #e39964;
 border: 1px solid black;
 float: right;
-clear: right;
-margin-top: -30px;
+margin-top: -21px;
+margin-right: -11px;
 }
 
 @media (min-width: 992px) {
